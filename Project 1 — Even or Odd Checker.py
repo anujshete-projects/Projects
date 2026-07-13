@@ -1,5 +1,5 @@
 num=int(input("Write a number:-"))
 if num%2==0:
-    print("number is even")
+    print(f"{num} is even")
 else:
-    print("number is odd")
+    print(f"{num}number is odd")
